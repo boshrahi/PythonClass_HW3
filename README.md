@@ -1,4 +1,6 @@
 # PythonClass_HW3
 This project is just a sample of python programming.
 # Part1.py
-find the single unpaired Number in a array
+Find the single unpaired number in an array
+# Part2.py
+Find that an array is a permutation
