@@ -9,8 +9,8 @@ def solution(X , A)
                 return i+count
              else:
                 return i
-                X = row_input()
-                A = map(int, row_input().split())
-                print solution(X , A)
+ X = row_input()
+ A = map(int, row_input().split())
+ print solution(X , A)
             
         
